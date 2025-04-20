@@ -1,0 +1,6 @@
+# .gitignore
+/vendor/
+.env
+joomla_articles.json
+var/logs/*.log
+!.gitkeep
